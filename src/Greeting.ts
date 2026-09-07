@@ -1,11 +1,11 @@
 class Greeting {
-  public name: string;
+  private name: string;
 
   constructor(name: string){
     this.name = name;
   }
   
-  get PersonName(): string {
+  get personName(): string {
     return this.name;
   }
 
