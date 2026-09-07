@@ -1,12 +1,16 @@
 {
+  "type": "module",
   "devDependencies": {
     "@types/node": "^26.4.1",
     "tsx": "^4.23.13",
     "typescript": "^7.0.2"
   },
   "scripts": {
-  "dev": "tsx watch src/Greeting.ts",
-  "start": "tsx src/Greeting.ts",
-  "typecheck": "tsc"
-}
+    "dev": "tsx watch src/Greeting.ts",
+    "start": "tsx src/Greeting.ts",
+    "typecheck": "tsc"
+  },
+  "dependencies": {
+    "chalk": "^6.0.0"
+  }
 }
