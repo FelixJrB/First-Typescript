@@ -13,7 +13,10 @@ class Greeting {
     this.name = name;
   }
 
-  public greet(): string {
+  public say(): string {
     return `Hello, ${this.name}`;
   }
 }
+
+const greeting = new Greeting('Felix');
+console.log(greeting.say());
