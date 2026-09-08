@@ -6,8 +6,8 @@
     "typescript": "^7.0.2"
   },
   "scripts": {
-    "dev": "tsx watch src/Greeting.ts",
-    "start": "tsx src/Greeting.ts",
+    "dev": "tsx watch src/app.ts",
+    "start": "tsx src/app.ts",
     "typecheck": "tsc"
   },
   "dependencies": {
