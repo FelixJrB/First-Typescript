@@ -20,11 +20,15 @@ Svar: Det kändes bra.
 
 Svar: Valde både två, det medför att båda fylls på en för inlämning och den andra för att jag skall fylla github med projekt, främst är det resan för mig själv också att se hur jag förbättras gentemot 1 år sedan i olika programmeringsspråk och projekt som jag slutfört.
 
+Github:
+
+https://github.com/FelixJrB/First-Typescript
+
 ## 3. Bedömning och att dela publikt
 
 *Uppgiften bedöms inte på kodens stil eller kvalitet, bara på en komplett inlämning. Påverkade det hur du arbetade? Och hur kändes det att posta din skärmdump/video publikt i Zulip, utan möjlighet att göra det privat?*
 
-Svar: Inte nämnvärt, försökte ändå hålla mig till vad som sagts under alla kurser och de krav som tidigare funnits, både gällande ESLint och andra krav. Dock i denna uppgift är vissa delar hårdkodat vilket främst bör undivkas men då det är en introduktion och labb 1 gav mig möjligheten till att utforska ett nytt programmeringsspråk föll valet på att utforska och leka runt lite.
+Svar: Inte nämnvärt, försökte ändå hålla mig till vad som sagts under alla kurser och de krav som tidigare funnits, både gällande ESLint och andra krav. Dock i denna uppgift är vissa delar hårdkodat vilket främst bör undivkas men då det är en introduktion och labb 1 gav mig möjligheten till att utforska ett nytt programmeringsspråk föll valet på att utforska och leka runt lite. Kändes konstigt att dela men samtidigt positivt, viktigt att man får öva på den delen, man såg hur andra hade gjort.
 
 ## 4. Ditt program
 
